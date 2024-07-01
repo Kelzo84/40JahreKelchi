@@ -6,17 +6,21 @@
     <title>Sebastian feiert seinen 40. Und Stephanie feiert einfach mit ;)</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f8f8f8;
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f0f0;
             color: #333;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: #4CAF50;
+            background-color: #3E4EB8;
             color: white;
             text-align: center;
-            padding: 1em 0;
+            padding: 2em 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
         }
         .container {
             width: 80%;
@@ -24,18 +28,28 @@
             padding: 2em 0;
         }
         .info-section {
-            background-color: #ffffff;
-            margin-bottom: 1em;
-            padding: 1em;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: white;
+            margin-bottom: 1.5em;
+            padding: 1.5em;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         }
         .info-section h2 {
-            color: #4CAF50;
+            color: #3E4EB8;
+            font-size: 1.75em;
+            margin-top: 0;
+        }
+        .info-section p, .info-section ul {
+            font-size: 1.1em;
+            line-height: 1.6em;
+        }
+        .info-section ul {
+            padding-left: 1em;
         }
         footer {
             text-align: center;
             padding: 1em 0;
-            background-color: #333;
+            background-color: #3E4EB8;
             color: white;
             position: fixed;
             bottom: 0;
@@ -44,7 +58,9 @@
         .map-container {
             margin: 1em 0;
             height: 400px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
@@ -66,7 +82,7 @@
             <h2>Einladungstext</h2>
             <p>Liebe Freunde,<br>
             Ihr habt ja bereits eure Vorabeinladung zu "keeping Up with the Kelchkas" bekommen - nun folgen endlich die Details!</p>
-            <p>Wir wollen mit euch und euren Familien mit einen bunten Nachmittag ab 16:30 Uhr beginnen.</p>
+            <p>Wir wollen mit euch und euren Familien mit einem bunten Nachmittag ab 16:30 Uhr beginnen.</p>
             <p><strong>16:30 - 18:30</strong><br>
             - Begrüßungsdrinks für Alt und Jung<br>
             - Spielecke & Spielplatz (bei gutem Wetter)<br>
@@ -105,3 +121,4 @@
     </footer>
 </body>
 </html>
+
