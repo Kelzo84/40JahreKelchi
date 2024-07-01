@@ -66,18 +66,9 @@
 </head>
 <body>
     <header>
-        <h1>Sebastian feiert seinen 40. Und Stephanie feiert einfach mit ;)</h1>
+        <h1>Sebastian feiert seinen 40. und Stephanie feiert einfach mit ;)</h1>
     </header>
     <div class="container">
-        <div class="info-section">
-            <h2>Wann?</h2>
-            <p>Samstag, 05.10.2024 ab 16:30 Uhr</p>
-        </div>
-        <div class="info-section">
-            <h2>Wo?</h2>
-            <p>Vereinsheim der Kleingartenanlage am E-Werk in Karlshorst,<br>
-            Hegemeisterweg 70, 10318 Berlin</p>
-        </div>
         <div class="info-section">
             <h2>Es darf gefeiert werden!</h2>
             <p>Liebe Freunde,<br>
@@ -99,6 +90,15 @@
             Gibrasska LIVE Geburtstagskonzert</p>
             <p><strong>22:00 - 02:00 Uhr</strong><br>
             Party Party Party</p>
+        <div class="info-section">
+            <h2>Wann?</h2>
+            <p>Samstag, 05.10.2024 ab 16:30 Uhr</p>
+        </div>
+        <div class="info-section">
+            <h2>Wo?</h2>
+            <p>Vereinsheim der Kleingartenanlage am E-Werk in Karlshorst,<br>
+            Hegemeisterweg 70, 10318 Berlin</p>
+        </div>
         </div>
         <div class="info-section">
             <h2>Google Maps</h2>
