@@ -66,9 +66,18 @@
 </head>
 <body>
     <header>
-        <h1>Sebastian feiert seinen 40. und Stephanie feiert einfach mit ;)</h1>
+        <h1>Sebastian feiert seinen 40. Und Stephanie feiert einfach mit ;)</h1>
     </header>
     <div class="container">
+        <div class="info-section">
+            <h2>Wann?</h2>
+            <p>Samstag, 05.10.2024 ab 16:30 Uhr</p>
+        </div>
+        <div class="info-section">
+            <h2>Wo?</h2>
+            <p>Vereinsheim der Kleingartenanlage am E-Werk in Karlshorst,<br>
+            Hegemeisterweg 70, 10318 Berlin</p>
+        </div>
         <div class="info-section">
             <h2>Es darf gefeiert werden!</h2>
             <p>Liebe Freunde,<br>
@@ -85,20 +94,11 @@
             - Obazda<br>
             - Brezen<br>
             - Salsiccia alla Desiree<br>
-            - vieles mehr aber das verraten wir euch noch nicht</p>
+            - vieles mehr aber das verraten wir euch noch nicht :-) </p>
             <p><strong>21:00 - 22:00 Uhr</strong><br>
             Gibrasska LIVE Geburtstagskonzert</p>
             <p><strong>22:00 - 02:00 Uhr</strong><br>
             Party Party Party</p>
-        <div class="info-section">
-            <h2>Wann?</h2>
-            <p>Samstag, 05.10.2024 ab 16:30 Uhr</p>
-        </div>
-        <div class="info-section">
-            <h2>Wo?</h2>
-            <p>Vereinsheim der Kleingartenanlage am E-Werk in Karlshorst,<br>
-            Hegemeisterweg 70, 10318 Berlin</p>
-        </div>
         </div>
         <div class="info-section">
             <h2>Google Maps</h2>
@@ -110,9 +110,11 @@
             <h2>Übernachtungsempfehlungen</h2>
             <p>Hier sind einige Übernachtungsempfehlungen in der Nähe:</p>
             <ul>
-                <li>Hotel Karlshorst, Treskowallee 89, 10318 Berlin</li>
-                <li>Pension Friedrichshain, Boxhagener Str. 53, 10245 Berlin</li>
+
                 <li>Hotel Die Botschaft, Treskowallee 92, 10318 Berlin https://die-botschaft.org</li>
+                <li>Villa seepark, Stechlinstraße 11, 10318 Berlin https://die-botschaft.org</li>
+                <li>SMARTments KarlshorstTreskowallee 115, 10318 Berlin https://www.smartments-business.de/standorte/berlin-karlshorst/</li>
+                <li>Hotel Karlshorst, Treskowallee 89, 10318 Berlin</li>
             </ul>
         </div>
     </div>
